@@ -16,4 +16,4 @@
 ### 프로젝트 구조
 ### FHIR 서버로 부터 가져온 데이터를 효율적으로 표현하기 위해 Google-chart 라이브러리 도입.
 ### 전체 4개의 컴포넌트로 하였으며, 1개의 ajax(이 프로젝트에서는 Axios) 컴포넌트와 3개의 Google-chart 컴포넌트로 구성된다.
-### ![사진](https://github.com/leedongjoon121/Reactjs_Project/blob/master/react_axios_dongjoon_test/img/%EC%A0%84%EC%B2%B4%EA%B5%AC%EC%A1%B01.jpg?raw=true)
+### ![사진](https://github.com/leedongjoon121/Reactjs_Project/blob/master/react_axios_dongjoon_test/img/noname01.jpg?raw=true)
