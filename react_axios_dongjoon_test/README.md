@@ -17,9 +17,11 @@
 ### FHIR 서버로 부터 가져온 데이터를 효율적으로 표현하기 위해 Google-chart 라이브러리 도입.
 ### 전체 4개의 컴포넌트로 하였으며, 1개의 ajax(이 프로젝트에서는 Axios) 컴포넌트와 3개의 Google-chart 컴포넌트로 구성된다.
 ### ![사진](https://github.com/leedongjoon121/Reactjs_Project/blob/master/react_axios_dongjoon_test/img/noname01.jpg?raw=true)
+<br/>
 
 ## bootstrap 을 이용하여 가상 의료 클라이언트 구성
 ### ![사진](https://github.com/leedongjoon121/Reactjs_Project/blob/master/react_axios_dongjoon_test/img/main1.JPG?raw=true)
+<br/>
 
 ## HTML DOM 구조안에 react view를 랜더링 하여 의료 데이터 표현
 ### ![사진](https://github.com/leedongjoon121/Reactjs_Project/blob/master/react_axios_dongjoon_test/img/main2.JPG?raw=true)
